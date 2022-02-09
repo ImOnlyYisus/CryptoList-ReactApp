@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yisusturtle/CryptoList-ReactApp/static/css/main.5d506677.css",
-    "main.js": "/yisusturtle/CryptoList-ReactApp/static/js/main.512c5b7a.js",
-    "static/js/787.55f609fb.chunk.js": "/yisusturtle/CryptoList-ReactApp/static/js/787.55f609fb.chunk.js",
-    "index.html": "/yisusturtle/CryptoList-ReactApp/index.html",
-    "main.5d506677.css.map": "/yisusturtle/CryptoList-ReactApp/static/css/main.5d506677.css.map",
-    "main.512c5b7a.js.map": "/yisusturtle/CryptoList-ReactApp/static/js/main.512c5b7a.js.map",
-    "787.55f609fb.chunk.js.map": "/yisusturtle/CryptoList-ReactApp/static/js/787.55f609fb.chunk.js.map"
+    "main.css": "/CryptoList-ReactApp/static/css/main.5d506677.css",
+    "main.js": "/CryptoList-ReactApp/static/js/main.ef6ddfa2.js",
+    "static/js/787.55f609fb.chunk.js": "/CryptoList-ReactApp/static/js/787.55f609fb.chunk.js",
+    "index.html": "/CryptoList-ReactApp/index.html",
+    "main.5d506677.css.map": "/CryptoList-ReactApp/static/css/main.5d506677.css.map",
+    "main.ef6ddfa2.js.map": "/CryptoList-ReactApp/static/js/main.ef6ddfa2.js.map",
+    "787.55f609fb.chunk.js.map": "/CryptoList-ReactApp/static/js/787.55f609fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d506677.css",
-    "static/js/main.512c5b7a.js"
+    "static/js/main.ef6ddfa2.js"
   ]
 }
