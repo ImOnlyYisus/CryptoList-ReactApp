@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CryptoList-ReactApp/static/css/main.5d506677.css",
-    "main.js": "/CryptoList-ReactApp/static/js/main.ef6ddfa2.js",
+    "main.js": "/CryptoList-ReactApp/static/js/main.3d4db57f.js",
     "static/js/787.55f609fb.chunk.js": "/CryptoList-ReactApp/static/js/787.55f609fb.chunk.js",
     "index.html": "/CryptoList-ReactApp/index.html",
     "main.5d506677.css.map": "/CryptoList-ReactApp/static/css/main.5d506677.css.map",
-    "main.ef6ddfa2.js.map": "/CryptoList-ReactApp/static/js/main.ef6ddfa2.js.map",
+    "main.3d4db57f.js.map": "/CryptoList-ReactApp/static/js/main.3d4db57f.js.map",
     "787.55f609fb.chunk.js.map": "/CryptoList-ReactApp/static/js/787.55f609fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d506677.css",
-    "static/js/main.ef6ddfa2.js"
+    "static/js/main.3d4db57f.js"
   ]
 }
